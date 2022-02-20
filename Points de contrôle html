@@ -1,1 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>  
+		<title> Najib Daoudi </title>
+  </head>
+    
+    <body>
+        
+        <header>
+            <nav>
+                <ul> 
+                    <li>Home</li>
+                    <li>services</li>
+                    <li>about</li>
+                    <li>skills</li>
+                    <li>portfolio</li>
+                    <li>blog</li>
+                    <li>contact</li>
+                </ul>
+            </nav>
+        </header>
+        <section> 
+          <table>
+            <tr>
+              <th>i am najib daoudi<br>hello am jfdkjsfjirh ifijfkjfjdifjdf<br>  
+                <button type="submit">mon cv </button>
+                <button type="submit">video </button>
+             </th>
+              <th>
+                <img src="C:\Users\ADMIN\Desktop\photo-1554080353-a576cf803bda.jfif" alt="i am" width="200" height="185" > 
+              </th>
+            </tr>
+            
+           </table>
+           <iframe width="420" height="315" src="https://www.youtube.com/embed/zcTFG_F0FRs"></iframe>
+           <h1>My services</h1>
+           <h5>je suis un devollepeur a votre service </h5>
+           <table>
+            <tr>
+              <td><h1>web desing</h1><h4>lkjfgkljsduilrhjilfgsdqf sifhklsdfj <br>hdfhdkhruyrutfdj jkfhs</h4></td>
+              <td><h1>developmeent</h1><h4>We want patients to find the perfect <br>doctor and book an appointment <br>in the most easy way.</h4></td>
+              <td><h1>photograf</h1><h4>This is a h1 Heading</h4></td>
+            </tr>
+            <tr>
+              <td><h1>video</h1><h4>This is a h1 Heading</h4></td>
+              <td><h1>seo</h1><h4>This is a h1 Heading</h4></td>
+              <td><h1>app</h1><h4>This is a h1 Heading</h4></td>
+            </tr>
+           
+          </table>
+          <form action="/ma-page-de-traitement" method="post">
+                <div>
+                    <label for="name">Nom :</label>
+                    <input type="text" id="name" name="user_name">
+                </div>
+                <div>
+                    <label for="mail">e-mail :</label>
+                    <input type="email" id="mail" name="user_mail">
+                </div>
+                <div>
+                    <label for="msg">Message :</label>
+                    <textarea id="msg" name="user_message"></textarea>
+                </div>
+           </form>
+        
 
+        </section>
+        <footer> 
+            <p>You can reach Najib at:</p>
+
+                <ul>
+                    <li><a href="https://example.com">Website</a></li>
+                    <li><a href="mailto:najib.daoudi879@gmail.com">Email</a></li>
+                    <li><a href="tel:+212613824747">Phone</a></li>
+                </ul>
+
+        </footer>
+        
+
+        
+    </body>
+
+</html>
